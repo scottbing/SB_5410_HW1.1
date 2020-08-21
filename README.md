@@ -48,7 +48,7 @@ BSSD 5410 Homework 1.1
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Successfully installed certifi-2020.6.20 chardet-3.0.4 idna-2.10 requests-2.24.0 urllib3-1.25.10**<br>
 
 5.	Generate an array of 200 random integers instead of the hardcoded arr and see rerun your program. You probably want to remove the print statements for the number of operations.<br>
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**The Python program is located in this local repository**<br><r>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**The Python program is located in this local repository**<br><br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Sample Output**<br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Linear search took: 0.000496800000000075**<br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Binary search took: 0.00018439999999975143**<br>
