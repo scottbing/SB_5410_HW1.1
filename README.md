@@ -13,7 +13,7 @@ BSSD 5410 Homework 1.1
 
 1.	Having read about Bubble Sort from above, tell me in your email the Big O complexity of an iterative Bubble Sort implementation.
 
-O(n2) one inner sort  O(n) * one outer sort O(n) = O(n2); however, if the input data is already sorted it just needs to make one pass visiting each input element  O(n)
+**O(n2) one inner sort  O(n) * one outer sort O(n) = O(n2); however, if the input data is already sorted it just needs to make one pass visiting each input element  O(n)**
 
 2.	Research and explain in your email what Big Theta and Big Omega are and how they relate to Big O.
 
