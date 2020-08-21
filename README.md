@@ -45,6 +45,7 @@ BSSD 5410 Homework 1.1
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b.	Now install the requests module using pip. Here is a link talking about how to do it. <br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**C:\Users\sbing>pip3 install requests**<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Successfully installed certifi-2020.6.20 chardet-3.0.4 idna-2.10 requests-2.24.0 urllib3-1.25.10**<br>
 
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**C:\Users\sbing>pip3 install requests**<br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Successfully installed certifi-2020.6.20 chardet-3.0.4 idna-2.10 requests-2.24.0 urllib3-1.25.10**
