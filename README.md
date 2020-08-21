@@ -25,13 +25,13 @@ Big θ   θ(n)  - Average Case
 3.	Answer these 4 questions in your email:
 
 a.	What is the Big O notation for the complexity of printing the value of each element in an array?
-O(n)
+	__O(n)__
 
 b.	What is the Big O notation for the complexity of doubling the value of each element in an array?
-O(2n)
+	__O(2n)__
 
 c.	What is the Big O notation for the complexity of doubling the value of just the third element in an array of length 10.
-O(n) – the doubling operation is constant time O(1)
+	__O(n) – the doubling operation is constant time O(1)__
 
 d.	Given an algorithm that uses a for loop to look at every word in an alphabetized array of strings. What would be the Big O notation for the complexity of using that for loop to do a search for the word A. A is in the alphabetized dictionary. This may seem like the same answer as c, but it is not.
 	O(1)  if the list is sorted ‘A’ would be the first word
