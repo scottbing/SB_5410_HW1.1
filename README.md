@@ -30,7 +30,7 @@ BSSD 5410 Homework 1.1
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b.	What is the Big O notation for the complexity of doubling the value of each element in an array?<br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**__O(2n)__**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c.	What is the Big O notation for the complexity of doubling the value of just the third element in an array of length 10.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c.	What is the Big O notation for the complexity of doubling the value of just the third element in an array of length 10?<br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**__O(n) – the doubling operation is constant time O(1)__**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d.	Given an algorithm that uses a for loop to look at every word in an alphabetized array of strings. What would be the Big O notation for the complexity of using that for loop to do a search for the word A. A is in the alphabetized dictionary. This may seem like the same answer as c, but it is not.
