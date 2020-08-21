@@ -17,10 +17,10 @@ BSSD 5410 Homework 1.1
 
 2.	Research and explain in your email what Big Theta and Big Omega are and how they relate to Big O.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Summary**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Big Ω  Ω(n)) - Best Case Scenario**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Big O  O(n) - Worst Case Scenario**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Big θ   θ(n)  - Average Case**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Summary**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Big Ω  Ω(n)) - Best Case Scenario**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Big O  O(n) - Worst Case Scenario**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Big θ   θ(n)  - Average Case**<br>
 
 3.	Answer these 4 questions in your email:
 
