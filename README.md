@@ -24,10 +24,10 @@ BSSD 5410 Homework 1.1
 
 3.	Answer these 4 questions in your email:
 
-a.	What is the Big O notation for the complexity of printing the value of each element in an array?
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a.	What is the Big O notation for the complexity of printing the value of each element in an array?
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**__O(n)__**
 
-b.	What is the Big O notation for the complexity of doubling the value of each element in an array?
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b.	What is the Big O notation for the complexity of doubling the value of each element in an array?
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**__O(2n)__**
 
 c.	What is the Big O notation for the complexity of doubling the value of just the third element in an array of length 10.
