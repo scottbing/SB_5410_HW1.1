@@ -34,24 +34,24 @@ BSSD 5410 Homework 1.1
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**__O(n) – the doubling operation is constant time O(1)__**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d.	Given an algorithm that uses a for loop to look at every word in an alphabetized array of strings. What would be the Big O notation for the complexity of using that for loop to do a search for the word A. A is in the alphabetized dictionary. This may seem like the same answer as c, but it is not.<br>
-	O(1)  if the list is sorted ‘A’ would be the first word
-4.	Install Python’s package manager PIP on your machine and bring it to class next time.
+	O(1)  if the list is sorted ‘A’ would be the first word<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.	Install Python’s package manager PIP on your machine and bring it to class next time.
 
-a.	You should have pip from your installation of Python3.  You can type pip - -version to see if you are dealing with a pip in your python 3 folder or python 2. You may need to type pip3
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a.	You should have pip from your installation of Python3.  You can type pip - -version to see if you are dealing with a pip in your python 3 folder or python 2. You may need to type pip3
 - - version to see your pip3 install, in which case you will always need to type pip3 when any documentation lists pip.
 	C:\Users\sbing>python --version
 	Python 3.8.5
 	C:\Users\sbing>pip3 --version
 	pip 20.2.2 for (python 3.8)
 
-b.	Now install the requests module using pip. Here is a link talking about how to do it.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b.	Now install the requests module using pip. Here is a link talking about how to do it.
 https://www.w3schools.com/python/module_requests.asp
 
-C:\Users\sbing>pip3 install requests
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C:\Users\sbing>pip3 install requests
 Successfully installed certifi-2020.6.20 chardet-3.0.4 idna-2.10 requests-2.24.0 urllib3-1.25.10
 
 
-5.	Generate an array of 200 random integers instead of the hardcoded arr and see rerun your program. You probably want to remove the print statements for the number of operations.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.	Generate an array of 200 random integers instead of the hardcoded arr and see rerun your program. You probably want to remove the print statements for the number of operations.
 
-6.	All of your projects should be named with your initials, the course number, and the homework number. For me, this project would be JL-5410-HW1.1 Do not use my initials. Create a GitHub account and share the code from #5 above with me. My username is jleessd
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6.	All of your projects should be named with your initials, the course number, and the homework number. For me, this project would be JL-5410-HW1.1 Do not use my initials. Create a GitHub account and share the code from #5 above with me. My username is jleessd
 
