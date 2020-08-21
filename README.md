@@ -34,7 +34,7 @@ BSSD 5410 Homework 1.1
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**__O(n) – the doubling operation is constant time O(1)__**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d.	Given an algorithm that uses a for loop to look at every word in an alphabetized array of strings. What would be the Big O notation for the complexity of using that for loop to do a search for the word A. A is in the alphabetized dictionary. This may seem like the same answer as c, but it is not.<br>
-	O(1)  if the list is sorted ‘A’ would be the first word<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**O(1)  if the list is sorted ‘A’ would be the first word**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.	Install Python’s package manager PIP on your machine and bring it to class next time.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a.	You should have pip from your installation of Python3.  You can type pip - -version to see if you are dealing with a pip in your python 3 folder or python 2. You may need to type pip3
