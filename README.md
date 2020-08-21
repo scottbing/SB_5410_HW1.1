@@ -37,13 +37,14 @@ BSSD 5410 Homework 1.1
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**O(1)  if the list is sorted ‘A’ would be the first word**<br><br>
 4.	Install Python’s package manager PIP on your machine and bring it to class next time.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a.	You should have pip from your installation of Python3.  You can type pip - -version to see if you are dealing with a pip in your python 3 folder or python 2. You may need to type pip3 &ndash;&ndash;version to see your pip3 install, in which case you will always need to type pip3 when any documentation lists pip.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a.	You should have pip from your installation of Python3.  You can type pip - -version to see if you are dealing with a pip in your python 3 folder or python 2. You may need to type pip3 &ndash;&ndash;version to see your pip3 install, in which case you will always need to type pip3 when any documentation lists pip.<br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**C:\Users\sbing>python --version**<br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Python 3.8.5**<br>
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**C:\Users\sbing>pip3 --version**<Br>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**C:\Users\sbing>pip3 --version**<br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**pip 20.2.2 for (python 3.8)**<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b.	Now install the requests module using pip. Here is a link talking about how to do it. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b.	Now install the requests module using pip. Here is a link talking about how to do it. <br>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**C:\Users\sbing>pip3 install requests**<br>
 
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**C:\Users\sbing>pip3 install requests**<br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Successfully installed certifi-2020.6.20 chardet-3.0.4 idna-2.10 requests-2.24.0 urllib3-1.25.10**
