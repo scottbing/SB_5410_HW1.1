@@ -47,11 +47,9 @@ BSSD 5410 Homework 1.1
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**C:\Users\sbing>pip3 install requests**<br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Successfully installed certifi-2020.6.20 chardet-3.0.4 idna-2.10 requests-2.24.0 urllib3-1.25.10**<br>
 
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**C:\Users\sbing>pip3 install requests**<br>
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Successfully installed certifi-2020.6.20 chardet-3.0.4 idna-2.10 requests-2.24.0 urllib3-1.25.10**
-
-
 5.	Generate an array of 200 random integers instead of the hardcoded arr and see rerun your program. You probably want to remove the print statements for the number of operations.
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**The Python program is located in this local repository**<br>
+
 
 6.	All of your projects should be named with your initials, the course number, and the homework number. For me, this project would be JL-5410-HW1.1 Do not use my initials. Create a GitHub account and share the code from #5 above with me. My username is jleessd
 
