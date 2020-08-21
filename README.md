@@ -17,6 +17,13 @@ BSSD 5410 Homework 1.1
 
 2.	Research and explain in your email what Big Theta and Big Omega are and how they relate to Big O.
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Big O represents indicates how fast in terms of time that an algorithm will execute.**<br>  
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Big Omega is the fastest viable running time. On a graph, it lies below the Big O line.**<br> 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Big Theta is the near perfect Big O.  On a graph, it lies between the best BigO running time and the worst Big O running time.**<br> 
+
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Summary**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Big Ω &rarr; Ω(n)) - Best Case Scenario**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Big O &rarr; O(n) - Worst Case Scenario**<br>
